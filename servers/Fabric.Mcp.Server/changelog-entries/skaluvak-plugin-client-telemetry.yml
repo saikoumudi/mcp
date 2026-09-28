@@ -1,0 +1,3 @@
+changes:
+  - section: Bugs Fixed
+    description: PluginExecuted telemetry now records the canonical client name, falling back to the legacy client type when needed.
